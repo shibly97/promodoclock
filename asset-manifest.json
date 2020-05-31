@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/promodoclock/static/css/main.5f361e03.chunk.css",
+    "main.js": "/promodoclock/static/js/main.60ec3ea0.chunk.js",
+    "main.js.map": "/promodoclock/static/js/main.60ec3ea0.chunk.js.map",
+    "runtime-main.js": "/promodoclock/static/js/runtime-main.892d5871.js",
+    "runtime-main.js.map": "/promodoclock/static/js/runtime-main.892d5871.js.map",
+    "static/js/2.a98d668f.chunk.js": "/promodoclock/static/js/2.a98d668f.chunk.js",
+    "static/js/2.a98d668f.chunk.js.map": "/promodoclock/static/js/2.a98d668f.chunk.js.map",
+    "index.html": "/promodoclock/index.html",
+    "precache-manifest.49144ab95e95143b38ea4acbba338d1a.js": "/promodoclock/precache-manifest.49144ab95e95143b38ea4acbba338d1a.js",
+    "service-worker.js": "/promodoclock/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/promodoclock/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a98d668f.chunk.js.LICENSE.txt": "/promodoclock/static/js/2.a98d668f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/promodoclock/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.892d5871.js",
+    "static/js/2.a98d668f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.60ec3ea0.chunk.js"
+  ]
+}
