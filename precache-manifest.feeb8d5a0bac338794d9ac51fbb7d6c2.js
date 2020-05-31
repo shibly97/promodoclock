@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d6e11bab358452251e0ca30835b646ef",
+    "revision": "34cd0a13575a61c31d704c5625164da2",
     "url": "/promodoclock/index.html"
   },
   {
-    "revision": "b5ca22d03e40f4ec2bf6",
+    "revision": "2d6c443350b4c9fca8cc",
     "url": "/promodoclock/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/promodoclock/static/js/2.a98d668f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b5ca22d03e40f4ec2bf6",
-    "url": "/promodoclock/static/js/main.60ec3ea0.chunk.js"
+    "revision": "2d6c443350b4c9fca8cc",
+    "url": "/promodoclock/static/js/main.6ec34a54.chunk.js"
   },
   {
     "revision": "97c6a9a5659af0be6678",
