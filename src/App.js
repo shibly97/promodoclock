@@ -99,10 +99,12 @@ function App() {
       }}>
          <div >
              <div className='row justify-content-md-center'>
+             <div className="col-md-3">
                 <Break
                 breakLength={breakLength}
                 decrementBreakLengthByOneMin = {decrementBreakLengthByOneMin}
                 incrementBreakLengthByOneMin = {incrementBreakLengthByOneMin}/>
+            </div>
             </div>
 
             <div className="row justify-content-md-center " >
@@ -116,18 +118,21 @@ function App() {
             </div>
 
             <div className="row justify-content-md-center" >
+            <div className="col-md-3">
                 <Session
             
                 sessionLength = {sessionLength}
                 decrementSessionLengthByOneMin = {decrementSessionLengthByOneMin}
                 incrementSessionLengthByOneMin = {incrementSessionLengthByOneMin} />
-            
+            </div>
                 </div>
             
             <div className="row justify-content-md-center">
+            <div className="col-md-3">
 
                  <button className="btn btn-danger" id='reset' onClick={handleResetButtonClick}><h4>Reset</h4></button>
 
+            </div>
             </div>
 
       <audio id='beep' ref={audioElement} >
